@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BoundsConfiner
+  - ItemParent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GroundBotton
+    uniqueID: 4250941897
+    locked: 0
+  - name: GroundMid
+    uniqueID: 4189426099
+    locked: 0
+  - name: GroundTop
+    uniqueID: 3290248147
+    locked: 0
+  - name: Water
+    uniqueID: 972483273
+    locked: 0
+  - name: Pit
+    uniqueID: 3294471721
+    locked: 0
+  - name: Player
+    uniqueID: 2425651459
+    locked: 0
+  - name: Tree
+    uniqueID: 3739932293
+    locked: 0
+  - name: Ruins
+    uniqueID: 2327414205
+    locked: 0
+  - name: Room
+    uniqueID: 2222433703
+    locked: 0
+  - name: Coliders
+    uniqueID: 1290306729
+    locked: 0

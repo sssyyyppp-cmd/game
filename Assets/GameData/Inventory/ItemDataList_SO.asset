@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3067ed6eb2e9d174ab3b0384cafed3cc, type: 3}
+  m_Name: ItemDataList_SO
+  m_EditorClassIdentifier: 
+  itemDataList:
+  - id: 1001
+    itemName: "\u5200"
+    itemType: 4
+    itemIcon: {fileID: 21300000, guid: 7c9546471e996a24d9452fc15d76732f, type: 3}
+    itemOnWordSprite: {fileID: 21300000, guid: 7c9546471e996a24d9452fc15d76732f, type: 3}
+    itemDescription: "\u950B\u5229\u7684\u5200"
+    itemUseRadius: 1
+    canCarried: 1
+    canDroped: 1
+    canPickUp: 1
+    itemPrice: 0
+    sellPercentage: 54
+  - id: 1002
+    itemName: "\u5251"
+    itemType: 4
+    itemIcon: {fileID: 21300000, guid: 4cb58a6d608dd3240a423dfc67d67dfe, type: 3}
+    itemOnWordSprite: {fileID: 21300000, guid: 4cb58a6d608dd3240a423dfc67d67dfe, type: 3}
+    itemDescription: "\u950B\u5229\u7684\u5251"
+    itemUseRadius: 1
+    canCarried: 1
+    canDroped: 1
+    canPickUp: 1
+    itemPrice: 0
+    sellPercentage: 0
+  - id: 1003
+    itemName: "\u68CD"
+    itemType: 0
+    itemIcon: {fileID: 21300000, guid: 43a19c2a205571245b911288091e30fe, type: 3}
+    itemOnWordSprite: {fileID: 21300000, guid: 43a19c2a205571245b911288091e30fe, type: 3}
+    itemDescription: "\u5F88\u5389\u5BB3\u7684\u68CD\u5B50"
+    itemUseRadius: 0
+    canCarried: 1
+    canDroped: 1
+    canPickUp: 1
+    itemPrice: 0
+    sellPercentage: 0
+  - id: 1004
+    itemName: "\u5FCD\u8005\u5200"
+    itemType: 0
+    itemIcon: {fileID: 21300000, guid: 3d7e7110aa7fc7340b75622eef3ab5bd, type: 3}
+    itemOnWordSprite: {fileID: 21300000, guid: 3d7e7110aa7fc7340b75622eef3ab5bd, type: 3}
+    itemDescription: "\u5FCD\u8005\u4F7F\u7528\u7684\u5200"
+    itemUseRadius: 0
+    canCarried: 0
+    canDroped: 0
+    canPickUp: 0
+    itemPrice: 0
+    sellPercentage: 0
+  - id: 1005
+    itemName: "\u5DE8\u5251"
+    itemType: 0
+    itemIcon: {fileID: 21300000, guid: c4c45eea08b6d3a4c90d5927c3a73861, type: 3}
+    itemOnWordSprite: {fileID: 21300000, guid: c4c45eea08b6d3a4c90d5927c3a73861, type: 3}
+    itemDescription: "\u5341\u5206\u5DE8\u5927\u7684\u5200"
+    itemUseRadius: 0
+    canCarried: 0
+    canDroped: 0
+    canPickUp: 0
+    itemPrice: 0
+    sellPercentage: 0
+  - id: 1006
+    itemName: "\u6B66\u58EB\u5200"
+    itemType: 0
+    itemIcon: {fileID: 21300000, guid: f345e85b2a15eaf4ca4d20885ea6fee9, type: 3}
+    itemOnWordSprite: {fileID: 21300000, guid: f345e85b2a15eaf4ca4d20885ea6fee9, type: 3}
+    itemDescription: "\u6B66\u58EB\u592A\u5200"
+    itemUseRadius: 0
+    canCarried: 0
+    canDroped: 0
+    canPickUp: 0
+    itemPrice: 0
+    sellPercentage: 0
